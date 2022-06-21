@@ -1,0 +1,24 @@
+
+POST http://localhost:5000/api/location/
+Content-Type: application/json
+
+{    
+        "locationName": "disney world",
+        "description": "Walt Disney World Resort, California",
+        "phone": 905674,
+        "latitude": 28.385233,
+        "longitude": -81.563873
+
+}
+
+    # "locationName": "disney world",
+    # "description": "Walt Disney World Resort, California",
+    # "phone": 905674,
+    # "latitude": 28.385233,
+    # "longitude": -81.563873
+
+    # "locationName": "WashingtonDC",
+    # "description": "The White house, Washinton DC",
+    # "phone": 905674,
+    # "latitude": 38.897957,
+    # "longitude": -77.03656
